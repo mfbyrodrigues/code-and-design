@@ -17,9 +17,9 @@ Este curso aborda desde os conceitos básicos até técnicas avançadas de HTML 
 ## Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
-- **Editor:** VS Code com extensão Live Server
-- **Navegador:** Google Chrome ou Firefox
-- **Ferramentas:** DevTools do navegador
+- **Editor:** VS Code com extensão Live Server;
+- **Navegador:** Opera ou Google Chrome;
+- **Ferramentas:** DevTools do navegador.
 
 ## Conteúdo do curso
 
@@ -50,12 +50,12 @@ Os principais tópicos abordados incluem:
 
 ## Minhas anotações
 
-Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
+Aqui adicionarei anotações e códigos feitos conforme avanço no curso.
 
 ## Referências
 
-- Documentação oficial do HTML e CSS
-- Livros e materiais recomendados durante o curso
-- Fóruns e comunidades de desenvolvimento web
+- Documentação oficial do HTML e CSS;
+- Livros e materiais recomendados durante o curso;
+- Fóruns e comunidades de desenvolvimento web.
 
 Esse repositório servirá como meu espaço de aprendizado e registro do curso.
