@@ -58,4 +58,6 @@ Aqui adicionarei anotações e códigos feitos conforme avanço no curso.
 - Livros e materiais recomendados durante o curso;
 - Fóruns e comunidades de desenvolvimento web.
 
+##
+
 Esse repositório servirá como meu espaço de aprendizado e registro do curso.
